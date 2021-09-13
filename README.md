@@ -6,14 +6,13 @@
 
 ## Executar a aplicação:
 
-ˋˋˋ
+```
 
 Copie a URL abaixo e cole no seu navegador:
 
 http://127.0.0.1:5500
 
-
-ˋˋˋ
+```
 
 ## Tecnologias utilizadas:
 
