@@ -4,15 +4,6 @@
 
 ![](images/home-landing-page.png)
 
-## Executar a aplicação:
-
-```
-
-Copie a URL abaixo e cole no seu navegador:
-
-http://127.0.0.1:5500
-
-```
 
 ## Tecnologias utilizadas:
 
