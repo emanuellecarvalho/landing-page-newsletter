@@ -1,9 +1,10 @@
 # Landing page de uma newsletter gratuita
 
-### Aplicação de uma criação de página estática com formulário simples para praticar SCCS/SASS
-
 ![](images/home-landing-page.png)
 
+## Projeto
+
+Aplicação de uma página para newsletter com formulário simples para praticar SCCS/SASS
 
 ## Tecnologias utilizadas:
 
